@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/hackers-228/leetcodeproblems/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/hackers-228/leetcodeproblems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/hackers-228/leetcodeproblems/tree/master/0027-remove-element) |
+| [0035-search-insert-position](https://github.com/hackers-228/leetcodeproblems/tree/master/0035-search-insert-position) |
 | [0605-can-place-flowers](https://github.com/hackers-228/leetcodeproblems/tree/master/0605-can-place-flowers) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/hackers-228/leetcodeproblems/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 ## Hash Table
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/hackers-228/leetcodeproblems/tree/master/0004-median-of-two-sorted-arrays) |
+| [0035-search-insert-position](https://github.com/hackers-228/leetcodeproblems/tree/master/0035-search-insert-position) |
 ## Divide and Conquer
 |  |
 | ------- |
