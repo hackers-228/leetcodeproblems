@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/hackers-228/leetcodeproblems/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/hackers-228/leetcodeproblems/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/hackers-228/leetcodeproblems/tree/master/0013-roman-to-integer) |
+| [1071-greatest-common-divisor-of-strings](https://github.com/hackers-228/leetcodeproblems/tree/master/1071-greatest-common-divisor-of-strings) |
 ## Recursion
 |  |
 | ------- |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/hackers-228/leetcodeproblems/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/hackers-228/leetcodeproblems/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/hackers-228/leetcodeproblems/tree/master/0020-valid-parentheses) |
+| [1071-greatest-common-divisor-of-strings](https://github.com/hackers-228/leetcodeproblems/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1768-merge-strings-alternately](https://github.com/hackers-228/leetcodeproblems/tree/master/1768-merge-strings-alternately) |
 ## Sliding Window
 |  |
