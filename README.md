@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/hackers-228/leetcodeproblems/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/hackers-228/leetcodeproblems/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/hackers-228/leetcodeproblems/tree/master/0020-valid-parentheses) |
+| [0345-reverse-vowels-of-a-string](https://github.com/hackers-228/leetcodeproblems/tree/master/0345-reverse-vowels-of-a-string) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/hackers-228/leetcodeproblems/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1768-merge-strings-alternately](https://github.com/hackers-228/leetcodeproblems/tree/master/1768-merge-strings-alternately) |
 ## Sliding Window
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/hackers-228/leetcodeproblems/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/hackers-228/leetcodeproblems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/hackers-228/leetcodeproblems/tree/master/0027-remove-element) |
+| [0345-reverse-vowels-of-a-string](https://github.com/hackers-228/leetcodeproblems/tree/master/0345-reverse-vowels-of-a-string) |
 | [1768-merge-strings-alternately](https://github.com/hackers-228/leetcodeproblems/tree/master/1768-merge-strings-alternately) |
 ## Dynamic Programming
 |  |
