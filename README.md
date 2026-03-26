@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/hackers-228/leetcodeproblems/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/hackers-228/leetcodeproblems/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/hackers-228/leetcodeproblems/tree/master/0066-plus-one) |
+| [0238-product-of-array-except-self](https://github.com/hackers-228/leetcodeproblems/tree/master/0238-product-of-array-except-self) |
 | [0605-can-place-flowers](https://github.com/hackers-228/leetcodeproblems/tree/master/0605-can-place-flowers) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/hackers-228/leetcodeproblems/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1480-running-sum-of-1d-array](https://github.com/hackers-228/leetcodeproblems/tree/master/1480-running-sum-of-1d-array) |
@@ -121,5 +122,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/hackers-228/leetcodeproblems/tree/master/0238-product-of-array-except-self) |
 | [1480-running-sum-of-1d-array](https://github.com/hackers-228/leetcodeproblems/tree/master/1480-running-sum-of-1d-array) |
 <!---LeetCode Topics End-->
