@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/hackers-228/leetcodeproblems/tree/master/0345-reverse-vowels-of-a-string) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/hackers-228/leetcodeproblems/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1768-merge-strings-alternately](https://github.com/hackers-228/leetcodeproblems/tree/master/1768-merge-strings-alternately) |
+| [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/hackers-228/leetcodeproblems/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 ## Sliding Window
 |  |
 | ------- |
