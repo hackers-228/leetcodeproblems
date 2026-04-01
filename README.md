@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0605-can-place-flowers](https://github.com/hackers-228/leetcodeproblems/tree/master/0605-can-place-flowers) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/hackers-228/leetcodeproblems/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1480-running-sum-of-1d-array](https://github.com/hackers-228/leetcodeproblems/tree/master/1480-running-sum-of-1d-array) |
+| [2751-robot-collisions](https://github.com/hackers-228/leetcodeproblems/tree/master/2751-robot-collisions) |
 ## Hash Table
 |  |
 | ------- |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/hackers-228/leetcodeproblems/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/hackers-228/leetcodeproblems/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/hackers-228/leetcodeproblems/tree/master/0018-4sum) |
+| [2751-robot-collisions](https://github.com/hackers-228/leetcodeproblems/tree/master/2751-robot-collisions) |
 ## Backtracking
 |  |
 | ------- |
@@ -123,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/hackers-228/leetcodeproblems/tree/master/0020-valid-parentheses) |
+| [2751-robot-collisions](https://github.com/hackers-228/leetcodeproblems/tree/master/2751-robot-collisions) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -132,4 +135,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/hackers-228/leetcodeproblems/tree/master/0509-fibonacci-number) |
+## Simulation
+|  |
+| ------- |
+| [2751-robot-collisions](https://github.com/hackers-228/leetcodeproblems/tree/master/2751-robot-collisions) |
 <!---LeetCode Topics End-->
