@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/hackers-228/leetcodeproblems/tree/master/0020-valid-parentheses) |
 | [0151-reverse-words-in-a-string](https://github.com/hackers-228/leetcodeproblems/tree/master/0151-reverse-words-in-a-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/hackers-228/leetcodeproblems/tree/master/0345-reverse-vowels-of-a-string) |
+| [0784-letter-case-permutation](https://github.com/hackers-228/leetcodeproblems/tree/master/0784-letter-case-permutation) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/hackers-228/leetcodeproblems/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1768-merge-strings-alternately](https://github.com/hackers-228/leetcodeproblems/tree/master/1768-merge-strings-alternately) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/hackers-228/leetcodeproblems/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/hackers-228/leetcodeproblems/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0784-letter-case-permutation](https://github.com/hackers-228/leetcodeproblems/tree/master/0784-letter-case-permutation) |
 ## Stack
 |  |
 | ------- |
@@ -139,4 +141,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2751-robot-collisions](https://github.com/hackers-228/leetcodeproblems/tree/master/2751-robot-collisions) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0784-letter-case-permutation](https://github.com/hackers-228/leetcodeproblems/tree/master/0784-letter-case-permutation) |
 <!---LeetCode Topics End-->
