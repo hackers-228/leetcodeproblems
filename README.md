@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/hackers-228/leetcodeproblems/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/hackers-228/leetcodeproblems/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0021-merge-two-sorted-lists](https://github.com/hackers-228/leetcodeproblems/tree/master/0021-merge-two-sorted-lists) |
 ## Math
 |  |
 | ------- |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/hackers-228/leetcodeproblems/tree/master/0002-add-two-numbers) |
 | [0010-regular-expression-matching](https://github.com/hackers-228/leetcodeproblems/tree/master/0010-regular-expression-matching) |
+| [0021-merge-two-sorted-lists](https://github.com/hackers-228/leetcodeproblems/tree/master/0021-merge-two-sorted-lists) |
 | [0060-permutation-sequence](https://github.com/hackers-228/leetcodeproblems/tree/master/0060-permutation-sequence) |
 | [0509-fibonacci-number](https://github.com/hackers-228/leetcodeproblems/tree/master/0509-fibonacci-number) |
 | [0779-k-th-symbol-in-grammar](https://github.com/hackers-228/leetcodeproblems/tree/master/0779-k-th-symbol-in-grammar) |
