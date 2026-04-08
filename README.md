@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/hackers-228/leetcodeproblems/tree/master/0066-plus-one) |
 | [0079-word-search](https://github.com/hackers-228/leetcodeproblems/tree/master/0079-word-search) |
 | [0130-surrounded-regions](https://github.com/hackers-228/leetcodeproblems/tree/master/0130-surrounded-regions) |
+| [0212-word-search-ii](https://github.com/hackers-228/leetcodeproblems/tree/master/0212-word-search-ii) |
 | [0238-product-of-array-except-self](https://github.com/hackers-228/leetcodeproblems/tree/master/0238-product-of-array-except-self) |
 | [0605-can-place-flowers](https://github.com/hackers-228/leetcodeproblems/tree/master/0605-can-place-flowers) |
 | [0733-flood-fill](https://github.com/hackers-228/leetcodeproblems/tree/master/0733-flood-fill) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/hackers-228/leetcodeproblems/tree/master/0020-valid-parentheses) |
 | [0079-word-search](https://github.com/hackers-228/leetcodeproblems/tree/master/0079-word-search) |
 | [0151-reverse-words-in-a-string](https://github.com/hackers-228/leetcodeproblems/tree/master/0151-reverse-words-in-a-string) |
+| [0212-word-search-ii](https://github.com/hackers-228/leetcodeproblems/tree/master/0212-word-search-ii) |
 | [0345-reverse-vowels-of-a-string](https://github.com/hackers-228/leetcodeproblems/tree/master/0345-reverse-vowels-of-a-string) |
 | [0784-letter-case-permutation](https://github.com/hackers-228/leetcodeproblems/tree/master/0784-letter-case-permutation) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/hackers-228/leetcodeproblems/tree/master/1071-greatest-common-divisor-of-strings) |
@@ -122,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/hackers-228/leetcodeproblems/tree/master/0014-longest-common-prefix) |
+| [0212-word-search-ii](https://github.com/hackers-228/leetcodeproblems/tree/master/0212-word-search-ii) |
 ## Sorting
 |  |
 | ------- |
@@ -137,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/hackers-228/leetcodeproblems/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/hackers-228/leetcodeproblems/tree/master/0052-n-queens-ii) |
 | [0079-word-search](https://github.com/hackers-228/leetcodeproblems/tree/master/0079-word-search) |
+| [0212-word-search-ii](https://github.com/hackers-228/leetcodeproblems/tree/master/0212-word-search-ii) |
 | [0784-letter-case-permutation](https://github.com/hackers-228/leetcodeproblems/tree/master/0784-letter-case-permutation) |
 ## Stack
 |  |
@@ -180,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/hackers-228/leetcodeproblems/tree/master/0037-sudoku-solver) |
 | [0079-word-search](https://github.com/hackers-228/leetcodeproblems/tree/master/0079-word-search) |
 | [0130-surrounded-regions](https://github.com/hackers-228/leetcodeproblems/tree/master/0130-surrounded-regions) |
+| [0212-word-search-ii](https://github.com/hackers-228/leetcodeproblems/tree/master/0212-word-search-ii) |
 | [0733-flood-fill](https://github.com/hackers-228/leetcodeproblems/tree/master/0733-flood-fill) |
 ## Tree
 |  |
