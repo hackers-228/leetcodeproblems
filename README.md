@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/hackers-228/leetcodeproblems/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/hackers-228/leetcodeproblems/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/hackers-228/leetcodeproblems/tree/master/0066-plus-one) |
+| [0079-word-search](https://github.com/hackers-228/leetcodeproblems/tree/master/0079-word-search) |
 | [0238-product-of-array-except-self](https://github.com/hackers-228/leetcodeproblems/tree/master/0238-product-of-array-except-self) |
 | [0605-can-place-flowers](https://github.com/hackers-228/leetcodeproblems/tree/master/0605-can-place-flowers) |
 | [0733-flood-fill](https://github.com/hackers-228/leetcodeproblems/tree/master/0733-flood-fill) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/hackers-228/leetcodeproblems/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/hackers-228/leetcodeproblems/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/hackers-228/leetcodeproblems/tree/master/0020-valid-parentheses) |
+| [0079-word-search](https://github.com/hackers-228/leetcodeproblems/tree/master/0079-word-search) |
 | [0151-reverse-words-in-a-string](https://github.com/hackers-228/leetcodeproblems/tree/master/0151-reverse-words-in-a-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/hackers-228/leetcodeproblems/tree/master/0345-reverse-vowels-of-a-string) |
 | [0784-letter-case-permutation](https://github.com/hackers-228/leetcodeproblems/tree/master/0784-letter-case-permutation) |
@@ -125,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/hackers-228/leetcodeproblems/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0079-word-search](https://github.com/hackers-228/leetcodeproblems/tree/master/0079-word-search) |
 | [0784-letter-case-permutation](https://github.com/hackers-228/leetcodeproblems/tree/master/0784-letter-case-permutation) |
 ## Stack
 |  |
@@ -151,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/hackers-228/leetcodeproblems/tree/master/0079-word-search) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/hackers-228/leetcodeproblems/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0733-flood-fill](https://github.com/hackers-228/leetcodeproblems/tree/master/0733-flood-fill) |
 ## Breadth-First Search
@@ -161,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0079-word-search](https://github.com/hackers-228/leetcodeproblems/tree/master/0079-word-search) |
 | [0733-flood-fill](https://github.com/hackers-228/leetcodeproblems/tree/master/0733-flood-fill) |
 ## Tree
 |  |
