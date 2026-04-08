@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0060-permutation-sequence](https://github.com/hackers-228/leetcodeproblems/tree/master/0060-permutation-sequence) |
 | [0066-plus-one](https://github.com/hackers-228/leetcodeproblems/tree/master/0066-plus-one) |
 | [0509-fibonacci-number](https://github.com/hackers-228/leetcodeproblems/tree/master/0509-fibonacci-number) |
+| [0779-k-th-symbol-in-grammar](https://github.com/hackers-228/leetcodeproblems/tree/master/0779-k-th-symbol-in-grammar) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/hackers-228/leetcodeproblems/tree/master/1071-greatest-common-divisor-of-strings) |
 ## Recursion
 |  |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0010-regular-expression-matching](https://github.com/hackers-228/leetcodeproblems/tree/master/0010-regular-expression-matching) |
 | [0060-permutation-sequence](https://github.com/hackers-228/leetcodeproblems/tree/master/0060-permutation-sequence) |
 | [0509-fibonacci-number](https://github.com/hackers-228/leetcodeproblems/tree/master/0509-fibonacci-number) |
+| [0779-k-th-symbol-in-grammar](https://github.com/hackers-228/leetcodeproblems/tree/master/0779-k-th-symbol-in-grammar) |
 ## String
 |  |
 | ------- |
@@ -151,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0779-k-th-symbol-in-grammar](https://github.com/hackers-228/leetcodeproblems/tree/master/0779-k-th-symbol-in-grammar) |
 | [0784-letter-case-permutation](https://github.com/hackers-228/leetcodeproblems/tree/master/0784-letter-case-permutation) |
 ## Depth-First Search
 |  |
