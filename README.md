@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/hackers-228/leetcodeproblems/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/hackers-228/leetcodeproblems/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/hackers-228/leetcodeproblems/tree/master/0013-roman-to-integer) |
+| [0060-permutation-sequence](https://github.com/hackers-228/leetcodeproblems/tree/master/0060-permutation-sequence) |
 | [0066-plus-one](https://github.com/hackers-228/leetcodeproblems/tree/master/0066-plus-one) |
 | [0509-fibonacci-number](https://github.com/hackers-228/leetcodeproblems/tree/master/0509-fibonacci-number) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/hackers-228/leetcodeproblems/tree/master/1071-greatest-common-divisor-of-strings) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/hackers-228/leetcodeproblems/tree/master/0002-add-two-numbers) |
 | [0010-regular-expression-matching](https://github.com/hackers-228/leetcodeproblems/tree/master/0010-regular-expression-matching) |
+| [0060-permutation-sequence](https://github.com/hackers-228/leetcodeproblems/tree/master/0060-permutation-sequence) |
 | [0509-fibonacci-number](https://github.com/hackers-228/leetcodeproblems/tree/master/0509-fibonacci-number) |
 ## String
 |  |
