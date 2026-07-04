@@ -176,12 +176,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/hackers-228/leetcodeproblems/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0130-surrounded-regions](https://github.com/hackers-228/leetcodeproblems/tree/master/0130-surrounded-regions) |
 | [0733-flood-fill](https://github.com/hackers-228/leetcodeproblems/tree/master/0733-flood-fill) |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/hackers-228/leetcodeproblems/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/hackers-228/leetcodeproblems/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0130-surrounded-regions](https://github.com/hackers-228/leetcodeproblems/tree/master/0130-surrounded-regions) |
 | [0733-flood-fill](https://github.com/hackers-228/leetcodeproblems/tree/master/0733-flood-fill) |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/hackers-228/leetcodeproblems/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 ## Matrix
 |  |
 | ------- |
@@ -202,4 +204,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/hackers-228/leetcodeproblems/tree/master/0130-surrounded-regions) |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/hackers-228/leetcodeproblems/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
+## Graph Theory
+|  |
+| ------- |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/hackers-228/leetcodeproblems/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 <!---LeetCode Topics End-->
